@@ -49,6 +49,7 @@
           "standard_track": true,
           "deprecated": false
         }
+       }
       },
       "encrypt": {
         "__compat": {
